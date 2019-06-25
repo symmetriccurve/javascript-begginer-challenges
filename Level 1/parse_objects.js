@@ -23,5 +23,4 @@ var vehicle = {
       isHeated: false
     },
   }
-  
 }
