@@ -1,6 +1,6 @@
 Problem Statement: 
 
-Give a object below print the model,fuelType and seatsCount. 
+Give a object below print the model,fuelType and count of seats in the front. 
 
 
 var vehicle = {
