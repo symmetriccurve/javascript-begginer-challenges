@@ -4,7 +4,7 @@
   1. write a function that will change the model the vehicle from 2015 to 2016
   2. write a function that will change the material of the front seat from leather to cloth
   
-/*
+*/
 
   var vehicle = {
     model: 2015,
