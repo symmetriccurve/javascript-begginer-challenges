@@ -1,9 +1,11 @@
-# The entire javascript tutorial works on the indian satellites
-
-
-### Get familiarize with the information below
-```javascript
-{
+/** Problem Statement
+ * Write a function to check if the launch year is 
+ * 1. prints the year of launch of vehicle
+ * 2. prints missionType
+ * 3. prints highest orbit point.
+ */
+ 
+var satellite = {
   name: 'Mangalyaan',
   year: 2013,
   missionType: 'Mars orbiter',
@@ -31,21 +33,19 @@
       },
   }
 }
-```
 
-##Terminalogy
+function printYearOfLaunch(){
+    // your code goes here
+}
 
-#### name:
-Name of the Satellite
+function printMissionType(){
+    // your code goes here
+}
 
-#### year
-year of the satellite launch
+function printHighestOrbitPoint(){
+    // your code goes here
+}
 
-#### year
-#### year
-#### year
-#### year
-#### year
-#### year
-#### year
-#### year
+printYearOfLaunch() // should print 2015
+printMissionType() // should print Mars orbiter
+printHighestOrbitPoint() // should print 76,993.6 km

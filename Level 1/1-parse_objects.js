@@ -1,9 +1,8 @@
-# The entire javascript tutorial works on the indian satellites
-
-
-### Get familiarize with the information below
-```javascript
-{
+/** Problem Statement
+ * Console the year, launchSite, inclination, dryMass units
+ */
+ 
+var satellite = {
   name: 'Mangalyaan',
   year: 2013,
   missionType: 'Mars orbiter',
@@ -31,21 +30,3 @@
       },
   }
 }
-```
-
-##Terminalogy
-
-#### name:
-Name of the Satellite
-
-#### year
-year of the satellite launch
-
-#### year
-#### year
-#### year
-#### year
-#### year
-#### year
-#### year
-#### year

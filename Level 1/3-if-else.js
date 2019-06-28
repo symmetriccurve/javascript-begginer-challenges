@@ -1,9 +1,9 @@
-# The entire javascript tutorial works on the indian satellites
-
-
-### Get familiarize with the information below
-```javascript
-{
+/** Problem Statement
+ * Write a if else block to print "The mission is successful" if isSuccessful flag is true
+ * else print "The mission was not successful"
+ */
+ 
+var satellite = {
   name: 'Mangalyaan',
   year: 2013,
   missionType: 'Mars orbiter',
@@ -31,21 +31,3 @@
       },
   }
 }
-```
-
-##Terminalogy
-
-#### name:
-Name of the Satellite
-
-#### year
-year of the satellite launch
-
-#### year
-#### year
-#### year
-#### year
-#### year
-#### year
-#### year
-#### year

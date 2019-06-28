@@ -1,5 +1,6 @@
 /* 
-  Write a function that takes two arguments and add those arguments and return the value of the sum
+  Write a function that takes two arguments 
+    and add those arguments and return the value of the sum
 /*
 
 function add(a,b){

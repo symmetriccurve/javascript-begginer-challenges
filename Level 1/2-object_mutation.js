@@ -1,9 +1,12 @@
-# The entire javascript tutorial works on the indian satellites
-
-
-### Get familiarize with the information below
-```javascript
-{
+/** Problem Statement
+ * change/mutate the dryMass property 'unit' value from lb to kg 
+ * convert 1064lbs into kgs and assign to the mass property of dryMass
+ * 
+ * Hint: 1kg = 2.20lbs
+ * 
+ */
+ 
+var satellite = {
   name: 'Mangalyaan',
   year: 2013,
   missionType: 'Mars orbiter',
@@ -31,21 +34,5 @@
       },
   }
 }
-```
 
-##Terminalogy
 
-#### name:
-Name of the Satellite
-
-#### year
-year of the satellite launch
-
-#### year
-#### year
-#### year
-#### year
-#### year
-#### year
-#### year
-#### year
